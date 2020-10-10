@@ -3,7 +3,7 @@ import setuptools
 
 
 setuptools.setup(
-    name="GoogleSearch",
+    name="GoogleSearch-Api-2020",
     packages=setuptools.find_packages(),
     version="0.0.4",
     license='MIT',
