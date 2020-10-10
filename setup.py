@@ -15,7 +15,7 @@ setuptools.setup(
     download_url='https://github.com/SachaGitHub/GoogleSearch',
     keywords=['GoogleSearch'],
     install_requires=[
-        'json',
+        'jsonlib',
         'requests',
         "bs4"
     ],
